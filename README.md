@@ -1,5 +1,5 @@
 # sort_stack
-study project
+study project \
 We have two stacks A and B, A contains a random number of either positive or negative numbers without any duplicates; B is empty.\
 The goal is to sort in ascending order numbers into stack A.\
 To do this we have the following operations:\
