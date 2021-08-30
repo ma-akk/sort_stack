@@ -13,10 +13,10 @@ rb : rotate b\
 rr : ra and rb at the same time.\
 rra : reverse rotate a - shift down all elements of stack a by 1. The last element becomes the first one.\
 rrb : reverse rotate b\
-rrr : rra and rrb at the same time.\
+rrr : rra and rrb at the same time.
 
 Project contains two programs: push_swap and checker.\
-push_swap sorts stack A, checker helps to check result of push_swap\
+push_swap sorts stack A, checker helps to check result of push_swap
 
 For compile and test programs\
 sh my_test.sh
